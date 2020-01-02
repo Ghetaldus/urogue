@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 653dba65771f949f9a80e3cc2f68f07d, type: 3}
+  m_Name: Torch
+  m_EditorClassIdentifier: 
+  description: {fileID: 11400000, guid: ef30328472553406ea6c855d2a965155, type: 2}
+  activateSound: {fileID: 0}
+  deactivateSound: {fileID: 0}
+  icon: {fileID: 21300000, guid: 9e9a7b2a5a1604f6d982764a66550152, type: 3}
+  maxDurability: 50
+  maxCharges: 100
+  maxLevel: 2
+  rarity: 0
+  carryModifiers:
+  - template: {fileID: 11400000, guid: 0ba067599740049c5afcdf4e6aafc28a, type: 2}
+    FixedValue: 5
+    PercentValue: 0
+    propertyType: 1
+  equipmentSlot: 1
+  _updateCharges: 1
+  model: {fileID: 1097723606598406, guid: b95de1e6afb0b4b8da64a7e4390508de, type: 2}
+  animationId: 0
+  damage: {fileID: 11400000, guid: de984829956b74209a34533d1d681f5a, type: 2}

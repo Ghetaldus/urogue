@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb89d7c507c6449009639c729dd43a7b, type: 3}
+  m_Name: Tutor_07
+  m_EditorClassIdentifier: 
+  description:
+  - language: {fileID: 11400000, guid: d8cd0d367aa8a42bba15215d6d35afc9, type: 2}
+    name: Tutor
+    interactionText: 
+    description: '* Teleporters transport you to another place within the gameworld
+      within the blink of an eye.
+
+      * Teleporters can be visible or invisible, some are only visible if you have
+      the required Item or Skill.
+
+      * On Scene Teleporters can be used by Monsters as well (Teleporters to another
+      Scene cannot be used by Monsters).'
+  - language: {fileID: 11400000, guid: 574c01617853f4d08a78e5011e940818, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* Teleporter transportieren dich innerhalb k\xFCrzester Zeit an
+      einen anderen Ort innerhalb der Spielwelt.\n* Teleporter k\xF6nnen sichtbar
+      oder unsichtbar sein, einige sind nur sichtbar, wenn du das erforderliche Item
+      oder die F\xE4higkeit hast.\n* On-Scene Teleporter k\xF6nnen auch von Monstern
+      benutzt werden (Teleporter zu einer anderen Szene k\xF6nnen nicht von Monstern
+      benutzt werden)."
+  - language: {fileID: 11400000, guid: f28875efbda81476aad07ee011f2e16a, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* I teletrasporti ti trasportano in un altro posto all'interno del
+      mondo di gioco in un batter d'occhio.\n* I teletrasporti possono essere visibili
+      o invisibili, alcuni sono visibili solo se si dispone della voce o abilit\xE0
+      richiesta.\n* Su Scene I teletrasporti possono essere usati anche dai Mostri
+      (i Teletrasporti non possono essere usati dai Mostri)."

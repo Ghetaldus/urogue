@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb89d7c507c6449009639c729dd43a7b, type: 3}
+  m_Name: Tutor_08
+  m_EditorClassIdentifier: 
+  description:
+  - language: {fileID: 11400000, guid: d8cd0d367aa8a42bba15215d6d35afc9, type: 2}
+    name: Tutor
+    interactionText: 
+    description: '* During combat, when falling or taking damage otherwise - your
+      equipment can be damaged as well.
+
+      * Equipment damage only applies to the items you have currently equipped.
+
+      * Damaged Items can finally break (indicated by red color).
+
+      * Broken Weapons cannot be used for attacking.
+
+      * Broken Armor does not grant you any defensive bonus.
+
+      * find a replacement item or repair a broken item.'
+  - language: {fileID: 11400000, guid: 574c01617853f4d08a78e5011e940818, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* W\xE4hrend eines Kampfes, wenn du st\xFCrzt oder andere Sch\xE4den
+      erleidest - deine Ausr\xFCstung kann ebenfalls besch\xE4digt werden.\n* Ausr\xFCstungsschaden
+      gilt nur f\xFCr die Gegenst\xE4nde, die du gerade ausger\xFCstet hast.\n* Besch\xE4digte
+      Gegenst\xE4nde k\xF6nnen schlie\xDFlich brechen (angezeigt durch rote Farbe).\n*
+      Zerbrochene Waffen k\xF6nnen nicht zum Angreifen benutzt werden.\n* Zerbrochene
+      R\xFCstung gew\xE4hrt dir keinen Verteidigungsbonus.\n* finde einen Ersatzartikel
+      oder repariere einen kaputten Gegenstand."
+  - language: {fileID: 11400000, guid: f28875efbda81476aad07ee011f2e16a, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* Durante il combattimento, quando cadi o subisci danni in altro
+      modo, anche l'attrezzatura pu\xF2 essere danneggiata.\n* Il danno all'attrezzatura
+      si applica solo agli articoli che hai attualmente equipaggiato.\n* Gli oggetti
+      danneggiati possono finalmente rompersi (indicato dal colore rosso).\n* Le armi
+      rotte non possono essere usate per attaccare.\n* Broken Armor non ti concede
+      alcun bonus difensivo.\n* trova un articolo sostitutivo o ripara un oggetto
+      rotto."

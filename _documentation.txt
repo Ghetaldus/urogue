@@ -1,0 +1,70 @@
+// =======================================================================================
+// UROGUE - FIRST PERSON DUNGEON CRAWLER TOOLKIT (Copyright by wovencode.net)
+//
+// Website: 
+// Support: 
+// Forum Link: 
+// Asset Store Link: 
+//
+// =======================================================================================
+
+1.0 Introduction
+------------------------------------------------------------------------------------------
+
+Create exciting oldschool 3d Dungeon Crawler games without a single line of code using this asset. You will be able to design a first person, single player and single character RPG with gameplay similar to Ultima Underworld, System Shock and other golden Oldies. The faux 3d graphics use Sprites instead of models for monsters and items and allow you to integrate content at the highest pace. Based on my own experiences with Unity3d in the last year, the 3d Dungeon Crawler Toolkit was built around three principles:
+
+* Easy Creation - It makes content creation as easy as possible. Every object in the game ranging from Monsters, Items, Traps, Doors and Chests - as well as the Player and Skills is editable via scriptable objects.
+
+* Complex Creation - Comes with a whole battery of features right out of the box. And new features will be added with every major update. I want this asset to be as complete as possible so that no two games created with it are the same.
+
+* Fast Creation - The simplified faux 3d graphic and the powerful scriptable objects allow for rapid content creation. Create an item in a minute, a Monster with multiple attacks in five minutes, add a small dungeon level in a couple of hours or a simple dungeon in one weekend.
+
+
+1.1 What is a Dungeon Crawl?
+------------------------------------------------------------------------------------------
+
+A dungeon crawl is a type of scenario in fantasy role-playing games in which heroes navigate a labyrinthine environment (a "dungeon"), battling various monsters, and looting any treasure they may find. Because of its simplicity, a dungeon crawl can be easier for a gamemaster to run than more complex adventures, and the "hack and slash" style of play is appreciated by players who focus on action and combat. The term can be used in a pejorative sense, since dungeon crawls often lack meaningful plot or logical consistency. The parody game Munchkin is about "the essence of the dungeon experience... Kill the monsters, steal the treasure, stab your buddy."
+
+The first computer-based dungeon crawl was pedit5, developed in 1975 by Rusty Rutherford on the PLATO interactive education system based in Urbana, Illinois. Although this game was quickly deleted from the system, several more like it appeared, including dnd and Moria. Some distinguish "dungeon crawlers" from rogue-likes and RPGs with stories and character-interaction, while others use the term to describe any game which features ample amounts of dungeon exploration (including Zork, Zelda and tabletop RPGs). 
+
+- From Wikipedia, the free encyclopedia
+
+1.2 What is Faux 3d (and why)?
+------------------------------------------------------------------------------------------
+
+The term Faux 3d describes fake 3d graphics in a first person environment - as many computer games prior to the mid 90s and pretty much all console games prior to the fifth generation era did. The most significant "feature" of this graphic style is the use of 2d sprites in a 3d environment in order to display objects like Monsters and Items.
+
+The list of games using Faux 3d graphics is long - and includes timeless classics like "Dungeon Master", "Eye of the Beholder", "Ultima Underworld", "Black Crypt", "Might and Magic" and "System Shock" among others. Even until today, we see this kind of graphics - especially in the independent game development scene. A famous example is "Delver" but lesser known titles like "Ebony Spire" or "One more Dungeon" exist as well.
+
+The Faux 3d graphics style has been chosen for the uRogue asset out of several reasons. The first one is the charming atmosphere of retro graphics, the second is the ease of acquisition and implementation of 2d graphics compared to much more complex 3d models. And the final reason is the integration and content generation speed. uRogue is a number crunching, retro RPG asset with a strong focus on gameplay features. Graphics are secondary to it (which does not necessarily mean "bad").
+
+Weaver Words: This being said, the development of a true 3d Unity RPG asset might be a possibility in the future.
+
+2. Quickstart
+------------------------------------------------------------------------------------------
+
+* Install and Open Unity 5.5 or newer (most recent version is recommended).
+* Import the uRogue asset from Unity Asset Store into a new project.
+* Navigate to Scenes -> Game and open the "Game" scene.
+* Add this scene to your Build Settings via Filde -> Build Settings.
+* Build & Run the project via File -> Build Settings for your operating system.
+
+* Use the "WASD" keyboard keys to move and the mouse to look around.
+* When you wield a weapon, use the mouse button to attack.
+* Press keys 1-9 to activate/equip/use Skills/Items in the hotkey slots.
+* Press "E" while targetting any object to interact with it.
+* Press "I" to open your Characters Iventory
+* Press "C" to open your Characters Statistics Screen
+* Press "T" to open your Characters Talents Screen
+* Press "ESC" to open the pause menu and access the options menu.
+
+
+------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------
+
+

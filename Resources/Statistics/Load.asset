@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38b30232215f54e1d9084c652f12e0e7, type: 3}
+  m_Name: Load
+  m_EditorClassIdentifier: 
+  description: {fileID: 11400000, guid: 2cb6c62c2ee9540409c4613d8274d4f6, type: 2}
+  icon: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  showGUI: 0
+  minValue: 0
+  startPercentage: 0
+  regeneration: 0
+  onMaxAddStatus:
+  - template: {fileID: 11400000, guid: 6d68145e841b34c5bafeb1571ea6a193, type: 2}
+    probability: 1
+    removeStatus: 0
+  onZeroAddStatus: []
+  onNonMaxAddStatus:
+  - template: {fileID: 11400000, guid: 6d68145e841b34c5bafeb1571ea6a193, type: 2}
+    probability: 1
+    removeStatus: 1
+  onNonZeroAddStatus: []
+  killOwnerOnZero: 0
+  resetOnMax: 0
+  resetCarryOver: 0
+  OnMaxModifier: []
+  MaxIncreaseProperties: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3c31ae61c4d4582add9ee9ad7ef0a5, type: 3}
+  m_Name: DamageMeleeRatman
+  m_EditorClassIdentifier: 
+  triggerCombat: 1
+  elements:
+  - defaultValue: 3
+    template: {fileID: 11400000, guid: 0292a1529341543ca968cff9cdaf8a0b, type: 2}
+  attackModifiers: []
+  damageVariance: 0.1
+  equipmentDamage: 0.1
+  criticalProbability: 0.2
+  probabilityModifiers: []
+  criticalPower: 0.2
+  powerModifiers: []
+  applyStatus: []
+  applyStatusOnCrit: []

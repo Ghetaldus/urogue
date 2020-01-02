@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fb332c7729a4484b94da1956108be42, type: 3}
+  m_Name: DepleteOxygen
+  m_EditorClassIdentifier: 
+  dropPrefab: {fileID: 0}
+  createItem: []
+  addStatus: []
+  removeStatus: []
+  OnActiveModifier:
+  - template: {fileID: 11400000, guid: 6ef0388f68c484cd0960fa50825fa8fa, type: 2}
+    FixedValue: -5
+    PercentValue: 0
+    propertyType: 4
+  dealDamage: {fileID: 0}

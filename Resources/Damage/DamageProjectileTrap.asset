@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3c31ae61c4d4582add9ee9ad7ef0a5, type: 3}
+  m_Name: DamageProjectileTrap
+  m_EditorClassIdentifier: 
+  triggerCombat: 0
+  elements:
+  - defaultValue: 2
+    template: {fileID: 11400000, guid: 26807da4bef6b4141bf24da3b954c04c, type: 2}
+  attackModifiers: []
+  damageVariance: 0.1
+  equipmentDamage: 0.1
+  criticalProbability: 0.2
+  probabilityModifiers: []
+  criticalPower: 3
+  powerModifiers: []
+  applyStatus:
+  - template: {fileID: 11400000, guid: ab93be6c201b843429ebfd5f264370ee, type: 2}
+    probability: 0.5
+    removeStatus: 0
+  applyStatusOnCrit: []

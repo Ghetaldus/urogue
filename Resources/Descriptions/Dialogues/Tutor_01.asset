@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb89d7c507c6449009639c729dd43a7b, type: 3}
+  m_Name: Tutor_01
+  m_EditorClassIdentifier: 
+  description:
+  - language: {fileID: 11400000, guid: d8cd0d367aa8a42bba15215d6d35afc9, type: 2}
+    name: Tutor
+    description: '* Use the "WASD" keyboard keys to move and the mouse to look around.
+
+      * When you wield a weapon, use the mouse button to attack.
+
+      * Press keys 1-9 to activate/equip/use Skills/Items in the hotkey slots.
+
+      * Press "E" while targetting any object to interact with it.
+
+      * Press "I" to open your Characters Iventory
+
+      * Press "C" to open your Characters Statistics Screen
+
+      * Press "T" to open your Characters Skill/Spell Screen
+
+      * Press "ESC" to open the pause menu and access the options menu.
+
+      * Drag and drop items from one location to another in order to equip them -
+      or double click to use.'
+  - language: {fileID: 11400000, guid: 574c01617853f4d08a78e5011e940818, type: 2}
+    name: Tutor
+    description: "* Verwenden Sie die \"WASD\" -Tasten zum Bewegen und die Maus zum
+      Umsehen.\n* Wenn du eine Waffe schwingst, benutze die Maustaste, um anzugreifen.\n*
+      Dr\xFCcken Sie die Tasten 1-9, um Skills / Items in den Hotkey-Slots zu aktivieren
+      / auszustatten.\n* Dr\xFCcke \"E\", w\xE4hrend du auf ein beliebiges Objekt
+      zielst, um damit zu interagieren.\n* Dr\xFCcke \"I\", um dein Charaktere-Inventar
+      zu \xF6ffnen\n* Dr\xFCcken Sie \"C\", um den Bildschirm \"Characters Statistics\"
+      zu \xF6ffnen\n* Dr\xFCcke \"T\", um deinen Charakter-Skill / Zauberbildschirm
+      zu \xF6ffnen\n* Dr\xFCcken Sie \"ESC\", um das Pause-Men\xFC zu \xF6ffnen und
+      das Optionsmen\xFC aufzurufen.\n* Ziehen Sie Gegenst\xE4nde von einem Ort zum
+      anderen, um sie auszur\xFCsten - oder doppelklicken Sie, um zu verwenden."
+  - language: {fileID: 11400000, guid: f28875efbda81476aad07ee011f2e16a, type: 2}
+    name: Tutor
+    description: "* Usa i tasti della tastiera \"WASD\" per muoverti e il mouse per
+      guardarti attorno.\n* Quando maneggi un'arma, usa il pulsante del mouse per
+      attaccare.\n* Premere i tasti 1-9 per attivare / equipaggiare / usare Abilit\xE0
+      / Oggetti negli slot hotkey.\n* Premi \"E\" mentre punti a qualsiasi oggetto
+      per interagire con esso.\n* Premi \"I\" per aprire Iventory dei personaggi\n*
+      Premere \"C\" per aprire la schermata Statistiche personaggi\n* Premi \"T\"
+      per aprire la schermata Abilit\xE0 / incantesimi personaggi\n* Premere \"ESC\"
+      per aprire il menu di pausa e accedere al menu opzioni.\n* Trascina gli oggetti
+      da una posizione all'altra per equipaggiarli o fai doppio clic per utilizzarli."

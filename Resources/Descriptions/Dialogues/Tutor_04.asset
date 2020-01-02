@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb89d7c507c6449009639c729dd43a7b, type: 3}
+  m_Name: Tutor_04
+  m_EditorClassIdentifier: 
+  description:
+  - language: {fileID: 11400000, guid: d8cd0d367aa8a42bba15215d6d35afc9, type: 2}
+    name: Tutor
+    interactionText: 
+    description: '* Falling a distance equal to your own height (or more) results
+      in serious damage.
+
+      * Falling can also inflict permanent injuries that are difficult to heal.
+
+      * Certain edges allow you to climb down if you have the required Skill or Item.
+
+      * Sometimes it is impossible to prevent falling down in order to advance.'
+  - language: {fileID: 11400000, guid: 574c01617853f4d08a78e5011e940818, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* Das Fallen einer Entfernung, die Ihrer eigenen H\xF6he (oder mehr)
+      entspricht, f\xFChrt zu ernsthaften Sch\xE4den.\n* Das Fallen kann auch dauerhafte
+      Verletzungen verursachen, die schwer zu heilen sind.\n* Bestimmte Kanten erm\xF6glichen
+      es dir, nach unten zu klettern, wenn du die erforderliche Fertigkeit oder den
+      Gegenstand hast.\n* Manchmal ist es unm\xF6glich zu verhindern, dass man herunterf\xE4llt,
+      um weiterzukommen."
+  - language: {fileID: 11400000, guid: f28875efbda81476aad07ee011f2e16a, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* Cadere una distanza pari alla tua altezza (o pi\xF9) provoca gravi
+      danni.\n* Le cadute possono anche infliggere ferite permanenti difficili da
+      curare.\n* Alcuni bordi ti permettono di scendere se hai l'Abilit\xE0 o l'Oggetto
+      richiesti.\n* A volte \xE8 impossibile evitare di cadere per avanzare.\x03\n"

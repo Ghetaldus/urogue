@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83bda2ab4566498197e4e3f99b7d247, type: 3}
+  m_Name: Cleric
+  m_EditorClassIdentifier: 
+  description: {fileID: 11400000, guid: 1983821c2095f48fbba73399e8344137, type: 2}
+  defaultAttributes:
+  - defaultValue: 5
+    template: {fileID: 11400000, guid: 092d38baca376401689e495dfdf51759, type: 2}
+  defaultStatistics:
+  - defaultValue: 50
+    template: {fileID: 11400000, guid: a739dc7689abf488fbf570f62e221346, type: 2}
+    Regeneration: 0
+    blockRegeneration: 0
+    blockDegeneration: 0
+  defaultResistances:
+  - defaultValue: 5
+    template: {fileID: 11400000, guid: 6e192510c49244e1fafbf309cbedcd9e, type: 2}
+  defaultSkills: []
+  defaultItems:
+  - template: {fileID: 11400000, guid: bd8542242275b41c3b9b4b87b2f25453, type: 2}
+    probability: 0
+    spawnDurability: 4
+    spawnCharges: 4
+    durability: 1
+    charges: 1

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9689d3c3cb3941fd8d50eade52c11ae, type: 3}
+  m_Name: ClothHood
+  m_EditorClassIdentifier: 
+  description: {fileID: 11400000, guid: 22636ff5f6477426bad47993a57d3b53, type: 2}
+  activateSound: {fileID: 0}
+  deactivateSound: {fileID: 0}
+  icon: {fileID: 21300000, guid: cbb50a61e6b5f4faeba5d6500ce421fb, type: 3}
+  maxDurability: 50
+  maxCharges: 1
+  maxLevel: 0
+  rarity: 0
+  carryModifiers:
+  - template: {fileID: 11400000, guid: 0ba067599740049c5afcdf4e6aafc28a, type: 2}
+    FixedValue: 2
+    PercentValue: 0
+    propertyType: 1
+  equipmentSlot: 2
+  _updateCharges: 0
+  OnActivateModifier:
+  - template: {fileID: 11400000, guid: 55f370b9905b94eb3afa8c5bf18b9ed5, type: 2}
+    FixedValue: 1
+    PercentValue: 0
+    propertyType: 2
+  - template: {fileID: 11400000, guid: 0292a1529341543ca968cff9cdaf8a0b, type: 2}
+    FixedValue: 1
+    PercentValue: 0
+    propertyType: 2
+  - template: {fileID: 11400000, guid: 56e0fc42a692b4bdcadc7375509a66bd, type: 2}
+    FixedValue: 1
+    PercentValue: 0
+    propertyType: 2
+  - template: {fileID: 11400000, guid: 26807da4bef6b4141bf24da3b954c04c, type: 2}
+    FixedValue: 1
+    PercentValue: 0
+    propertyType: 2

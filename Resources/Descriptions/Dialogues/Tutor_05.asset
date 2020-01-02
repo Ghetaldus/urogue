@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb89d7c507c6449009639c729dd43a7b, type: 3}
+  m_Name: Tutor_05
+  m_EditorClassIdentifier: 
+  description:
+  - language: {fileID: 11400000, guid: d8cd0d367aa8a42bba15215d6d35afc9, type: 2}
+    name: Tutor
+    interactionText: 
+    description: '* Traps come in various forms, some are visible others invisible
+      and some can only be seen with the right skill or magic spell.
+
+      * Walking on a trap or activating a trapped object launches the trap.
+
+      * Traps can be dodged if the player has a skill or spell to do so.
+
+      * Some traps can be disarmed (focus and press E) if the player has a skill or
+      item to do so.
+
+      * Most traps shoot projectiles at the creature who activates them, projectiles
+      do harm in various ways.'
+  - language: {fileID: 11400000, guid: 574c01617853f4d08a78e5011e940818, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* Fallen kommen in verschiedenen Formen, einige sind sichtbar, andere
+      unsichtbar und einige k\xF6nnen nur mit dem richtigen Fertigkeits- oder Zauberspruch
+      gesehen werden.\n* Wenn Sie auf eine Falle gehen oder ein gefangenes Objekt
+      aktivieren, wird die Falle gestartet.\n* Fallen k\xF6nnen ausgewichen werden,
+      wenn der Spieler dazu eine Fertigkeit oder einen Zauberspruch besitzt.\n* Einige
+      Fallen k\xF6nnen unscharfgeschaltet werden (Fokus und Dr\xFCcke E), wenn der
+      Spieler eine Fertigkeit oder einen Gegenstand besitzt.\n* Die meisten Fallen
+      schie\xDFen Projektile auf die Kreatur, die sie aktiviert, Projektile schaden
+      auf verschiedene Arten."
+  - language: {fileID: 11400000, guid: f28875efbda81476aad07ee011f2e16a, type: 2}
+    name: Tutor
+    interactionText: 
+    description: "* Le trappole sono disponibili in varie forme, alcune sono visibili
+      altre invisibili e alcune possono essere viste solo con l'abilit\xE0 o l'incantesimo
+      giusto.\n* Camminare su una trappola o attivare un oggetto intrappolato lancia
+      la trappola.\n* Le trappole possono essere schivate se il giocatore ha un'abilit\xE0
+      o una magia per farlo.\n* Alcune trappole possono essere disarmate (mettere
+      a fuoco e premere E) se il giocatore ha un'abilit\xE0 o un oggetto per farlo.\n*
+      La maggior parte delle trappole sparano proiettili alla creatura che li attiva,
+      i proiettili fanno danni in vari modi."
